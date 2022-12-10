@@ -1,0 +1,14 @@
+{
+    "criteria": {
+      "Unclocked": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "custom:opcauldroncraft"
+        }
+      }
+    },
+    "rewards": {
+        "function": "custom:crafts/cauldrongive"
+    }
+  }
+  
